@@ -1,0 +1,12 @@
+C:\Nelsper\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csprojAssemblyReference.cache
+C:\Nelsper\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+C:\Nelsper\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfo.cs
+C:\Nelsper\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Nelsper\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.deps.json
+C:\Nelsper\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.dll
+C:\Nelsper\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.pdb
+C:\Nelsper\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.dll
+C:\Nelsper\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.pdb
+C:\Nelsper\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CopyComplete
+C:\Nelsper\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.dll
+C:\Nelsper\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.pdb
